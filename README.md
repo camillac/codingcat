@@ -1,21 +1,21 @@
 # codingcat
 Two Sigma Project
 
-#Question
+# Question
 How has the percentage of obesity changed in the past 50 years?
 
-##Hypothesis
+## Hypothesis
 It has increased dramatically
 
 
-#Background
+# Background
 In health, we learned that 
 
-#Data Profile
+# Data Profile
 https://www.cdc.gov/nchs/data/hestat/obesity_child_13_14/obesity_child_13_14.htm
 
-#Results
+# Results
 
-#Conclusions
+# Conclusions
 
-#Future Work
+# Future Work
